@@ -552,6 +552,9 @@ body.light .header {
     text-align: center;
     padding-inline: 0.6rem;
   }
+  h1 span{
+    font-size: 20px;
+  }
   .header-btns {
     flex-direction: column;
     width: 80%;
